@@ -1,0 +1,2823 @@
+[
+  {
+    "id": "503231",
+    "time1": [
+      "[135] drogaly",
+      "[45] rocktzw",
+      "[490] KingRobinho",
+      "[210] SegredoDoLuxo"
+    ],
+    "time2": [
+      "[0] ILoveLizMacedo",
+      "[265] reaach",
+      "[70] njnq",
+      "[160] serasaentrosapvp"
+    ],
+    "canal1": "1360712342995730724",
+    "canal2": "1360712344660869120",
+    "data": "2025-04-12T20:25:05.917Z"
+  },
+  {
+    "id": "576484",
+    "time1": [
+      "[160] serasaentrosapvp",
+      "[0] ILoveLizMacedo",
+      "[135] drogaly",
+      "[210] SegredoDoLuxo"
+    ],
+    "time2": [
+      "[70] njnq",
+      "[490] KingRobinho",
+      "[45] rocktzw",
+      "[265] reaach"
+    ],
+    "canal1": "1360712650253795509",
+    "canal2": "1360712651822600413",
+    "data": "2025-04-12T20:26:19.378Z"
+  },
+  {
+    "id": "959266",
+    "time1": [
+      "[0] _zuxt",
+      "[45] safecurity",
+      "[205] serasaentrosapvp",
+      "[105] mwlv"
+    ],
+    "time2": [
+      "[200] drogaly",
+      "[180] pecaos__",
+      "[45] knrv",
+      "[235] reaach"
+    ],
+    "canal1": "1361003662717227099",
+    "canal2": "1361003664554070116",
+    "data": "2025-04-13T15:42:42.031Z"
+  },
+  {
+    "id": "597618",
+    "time1": [
+      "[45] knrv",
+      "[205] serasaentrosapvp",
+      "[180] pecaos__",
+      "[105] mwlv"
+    ],
+    "time2": [
+      "[200] drogaly",
+      "[35] myblood7",
+      "[0] _zuxt",
+      "[235] reaach"
+    ],
+    "canal1": "1361006340000190676",
+    "canal2": "1361006341698883905",
+    "data": "2025-04-13T15:53:20.325Z"
+  },
+  {
+    "id": "248780",
+    "time1": [
+      "[265] p2rj",
+      "[385] pecaos",
+      "[375] bad",
+      "[0] _zuxt"
+    ],
+    "time2": [
+      "[90] knrv",
+      "[290] drogaly",
+      "[190] velhinhas",
+      "[325] reaach"
+    ],
+    "canal1": "1361009071498461205",
+    "canal2": "1361009073218388029",
+    "data": "2025-04-13T16:04:11.668Z"
+  },
+  {
+    "id": "047441",
+    "time1": [
+      "[180] knrv",
+      "[375] bad",
+      "[0] _zuxt",
+      "[260] drogaly"
+    ],
+    "time2": [
+      "[190] velhinhas",
+      "[5] myblood7",
+      "[295] reaach",
+      "[165] mwlv"
+    ],
+    "canal1": "1361012421359173632",
+    "canal2": "1361012423397605567",
+    "data": "2025-04-13T16:17:30.342Z"
+  },
+  {
+    "id": "183168",
+    "time1": [
+      "[190] velhinhas",
+      "[0] _zuxt",
+      "[295] reaach",
+      "[385] pecaos"
+    ],
+    "time2": [
+      "[375] bad",
+      "[180] knrv",
+      "[165] mwlv",
+      "[5] myblood7"
+    ],
+    "canal1": "1361012990358327370",
+    "canal2": "1361012992598347937",
+    "data": "2025-04-13T16:19:46.239Z"
+  },
+  {
+    "id": "702475",
+    "time1": [
+      "[410] pecaos",
+      "[385] reaach",
+      "[15] safecurity",
+      "[345] autodidata"
+    ],
+    "time2": [
+      "[325] velhinhas",
+      "[5] myblood7",
+      "[270] knrv",
+      "[165] mwlv"
+    ],
+    "canal1": "1361015168653332521",
+    "canal2": "1361015170171932763",
+    "data": "2025-04-13T16:28:24.902Z"
+  },
+  {
+    "id": "764077",
+    "time1": [
+      "[410] pecaos",
+      "[325] velhinhas",
+      "[5] myblood7",
+      "[350] drogaly"
+    ],
+    "time2": [
+      "[0] _zuxt",
+      "[345] autodidata",
+      "[270] knrv",
+      "[165] mwlv"
+    ],
+    "canal1": "1361015427219722261",
+    "canal2": "1361015428649980178",
+    "data": "2025-04-13T16:29:26.803Z"
+  },
+  {
+    "id": "814011",
+    "time1": [
+      "[350] drogaly",
+      "[270] knrv"
+    ],
+    "time2": [
+      "[165] mwlv",
+      "[5] myblood7"
+    ],
+    "canal1": "1361015636440121515",
+    "canal2": "1361015637736030509",
+    "data": "2025-04-13T16:30:15.587Z"
+  },
+  {
+    "id": "857254",
+    "time1": [
+      "[90] _______trash",
+      "[0] panelinhas",
+      "[5] myblood7",
+      "[345] autodidata"
+    ],
+    "time2": [
+      "[350] drogaly",
+      "[270] knrv",
+      "[415] velhinhas",
+      "[520] pecaos"
+    ],
+    "canal1": "1361015817466024139",
+    "canal2": "1361015819001401645",
+    "data": "2025-04-13T16:30:59.770Z"
+  },
+  {
+    "id": "910565",
+    "time1": [
+      "[415] velhinhas",
+      "[90] _______trash",
+      "[520] pecaos",
+      "[5] myblood7"
+    ],
+    "time2": [
+      "[270] knrv",
+      "[0] junit0",
+      "[345] autodidata",
+      "[0] panelinhas"
+    ],
+    "canal1": "1361016041236336750",
+    "canal2": "1361016042440229166",
+    "data": "2025-04-13T16:31:53.349Z"
+  },
+  {
+    "id": "981470",
+    "time1": [
+      "[0] myblood7",
+      "[415] velhinhas",
+      "[520] pecaos",
+      "[90] _______trash"
+    ],
+    "time2": [
+      "[15] safecurity",
+      "[350] drogaly",
+      "[315] autodidata",
+      "[240] knrv"
+    ],
+    "canal1": "1361016338889310279",
+    "canal2": "1361016341351366716",
+    "data": "2025-04-13T16:33:04.348Z"
+  },
+  {
+    "id": "580566",
+    "time1": [
+      "[520] pecaos",
+      "[0] myblood7",
+      "[90] _zuxt",
+      "[415] velhinhas"
+    ],
+    "time2": [
+      "[0] wannastilboy",
+      "[0] junit0",
+      "[0] panelinhas",
+      "[315] autodidata"
+    ],
+    "canal1": "1361018851793571981",
+    "canal2": "1361018854188519574",
+    "data": "2025-04-13T16:43:03.543Z"
+  },
+  {
+    "id": "402099",
+    "time1": [
+      "[0] panelinhas",
+      "[0] safecurity",
+      "[285] autodidata",
+      "[505] velhinhas"
+    ],
+    "time2": [
+      "[90] myblood7",
+      "[0] wannastilboy",
+      "[0] junit0",
+      "[180] _zuxt"
+    ],
+    "canal1": "1361022297447596202",
+    "canal2": "1361022300228419808",
+    "data": "2025-04-13T16:56:45.192Z"
+  },
+  {
+    "id": "467380",
+    "time1": [
+      "[505] velhinhas",
+      "[0] safecurity",
+      "[180] _zuxt",
+      "[285] autodidata"
+    ],
+    "time2": [
+      "[90] myblood7",
+      "[0] junit0",
+      "[0] panelinhas",
+      "[0] wannastilboy"
+    ],
+    "canal1": "1361022572074107012",
+    "canal2": "1361022573663617317",
+    "data": "2025-04-13T16:57:50.296Z"
+  },
+  {
+    "id": "857244",
+    "time1": [
+      "[255] autodidata",
+      "[0] wannastilboy",
+      "[0] panelinhas",
+      "[595] velhinhas"
+    ],
+    "time2": [
+      "[180] myblood7",
+      "[0] safecurity",
+      "[270] _zuxt",
+      "[0] junit0"
+    ],
+    "canal1": "1361024206304706570",
+    "canal2": "1361024208066445344",
+    "data": "2025-04-13T17:04:20.233Z"
+  },
+  {
+    "id": "710797",
+    "time1": [
+      "[0] hezequel",
+      "[0] zonaNortecity",
+      "[0] wannaseecry",
+      "[235] isqc_bot"
+    ],
+    "time2": [
+      "[0] safecurity",
+      "[210] knrv",
+      "[90] thaleBW",
+      "[0] skynothe"
+    ],
+    "canal1": "1361040369403564283",
+    "canal2": "1361040370921898234",
+    "data": "2025-04-13T18:08:33.640Z"
+  },
+  {
+    "id": "974464",
+    "time1": [
+      "[0] safecurity",
+      "[0] hezequel",
+      "[90] thaleBW",
+      "[0] skynothe"
+    ],
+    "time2": [
+      "[0] zonaNortecity",
+      "[235] isqc_bot",
+      "[210] knrv",
+      "[255] SegredoDoLuxo"
+    ],
+    "canal1": "1361041475223162880",
+    "canal2": "1361041477182029945",
+    "data": "2025-04-13T18:12:57.360Z"
+  },
+  {
+    "id": "600598",
+    "time1": [
+      "[235] isqc_bot",
+      "[0] zonaNortecity",
+      "[0] skynothe",
+      "[90] thaleBW"
+    ],
+    "time2": [
+      "[0] safecurity",
+      "[0] hezequel",
+      "[255] SegredoDoLuxo",
+      "[210] knrv"
+    ],
+    "canal1": "1361044101323161861",
+    "canal2": "1361044103566983440",
+    "data": "2025-04-13T18:23:23.554Z"
+  },
+  {
+    "id": "510575",
+    "time1": [
+      "[325] isqc_bot",
+      "[300] knrv",
+      "[345] ekuator",
+      "[60] thaleBW"
+    ],
+    "time2": [
+      "[90] zonaNortecity",
+      "[0] skynothe",
+      "[0] safecurity",
+      "[50] hezequel"
+    ],
+    "canal1": "1361047918361972827",
+    "canal2": "1361047919683436696",
+    "data": "2025-04-13T18:38:33.336Z"
+  },
+  {
+    "id": "569480",
+    "time1": [
+      "[50] hezequel",
+      "[345] ekuator",
+      "[9999 NEAR EU Q MANDO KRAI] mwlv",
+      "[0] skynothe"
+    ],
+    "time2": [
+      "[90] zonaNortecity",
+      "[60] thaleBW",
+      "[300] knrv",
+      "[0] qpzv"
+    ],
+    "canal1": "1361052359748485322",
+    "canal2": "1361052361568555149",
+    "data": "2025-04-13T18:56:12.603Z"
+  },
+  {
+    "id": "647083",
+    "time1": [
+      "[345] ekuator",
+      "[0] qpzv",
+      "[50] hezequel",
+      "[325] isqc_bot"
+    ],
+    "time2": [
+      "[9999 NEAR EU Q MANDO KRAI] mwlv",
+      "[90] zonaNortecity",
+      "[300] knrv",
+      "[0] pzinJOB"
+    ],
+    "canal1": "1361052684949655582",
+    "canal2": "1361052686224461855",
+    "data": "2025-04-13T18:57:29.704Z"
+  },
+  {
+    "id": "734344",
+    "time1": [
+      "[320] drogaly",
+      "[225] autodidata",
+      "[345] ekuator",
+      "[40] njnq"
+    ],
+    "time2": [
+      "[15] Rocktzw",
+      "[50] hezequel",
+      "[565] velhinhas",
+      "[475] reaach"
+    ],
+    "canal1": "1361862551742189748",
+    "canal2": "1361862553344413709",
+    "data": "2025-04-16T00:35:36.949Z"
+  },
+  {
+    "id": "993723",
+    "time1": [
+      "[225] autodidata",
+      "[565] velhinhas",
+      "[40] njnq",
+      "[475] reaach"
+    ],
+    "time2": [
+      "[15] Rocktzw",
+      "[320] drogaly",
+      "[60] quemestaaqui",
+      "[60] badbangg"
+    ],
+    "canal1": "1361863640013078732",
+    "canal2": "1361863641875349554",
+    "data": "2025-04-16T00:39:56.471Z"
+  },
+  {
+    "id": "064333",
+    "time1": [
+      "[50] hezequel",
+      "[40] njnq",
+      "[60] quemestaaqui",
+      "[565] velhinhas"
+    ],
+    "time2": [
+      "[225] autodidata",
+      "[320] drogaly",
+      "[15] Rocktzw",
+      "[475] reaach"
+    ],
+    "canal1": "1361863935569035487",
+    "canal2": "1361863937729232927",
+    "data": "2025-04-16T00:41:07.410Z"
+  },
+  {
+    "id": "185539",
+    "time1": [
+      "[99] recriar"
+    ],
+    "time2": [
+      "[0] safecurity"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1362077463433187601",
+    "canal2": "1362077466214142112",
+    "data": "2025-04-16T14:53:07.912Z"
+  },
+  {
+    "id": "498581",
+    "time1": [
+      "[99] recriar"
+    ],
+    "time2": [
+      "[0] safecurity"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1362078776162521148",
+    "canal2": "1362078777580064962",
+    "data": "2025-04-16T14:58:20.587Z"
+  },
+  {
+    "id": "114748",
+    "time1": [
+      "[0] Rocktzw",
+      "[30] wannastilboy",
+      "[410] opniao",
+      "[585] reaach"
+    ],
+    "time2": [
+      "[10] crimeconstante",
+      "[0] lxdrake",
+      "[0] Justcallmylove",
+      "[655] velhinhas"
+    ],
+    "mapa": "Maple",
+    "canal1": "1362107417206460697",
+    "canal2": "1362107419223920761",
+    "data": "2025-04-16T16:48:37.765Z"
+  },
+  {
+    "id": "324885",
+    "time1": [
+      "[45] chelseaismylife",
+      "[745] velhinhas",
+      "[555] [-30] rea4ch",
+      "[480] fuzuq"
+    ],
+    "time2": [
+      "[0] 10minits",
+      "[45] crimeconstante",
+      "[45] pedroset",
+      "[55] wannastilboy"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1362112492725338384",
+    "canal2": "1362112494415642865",
+    "data": "2025-04-16T17:08:47.795Z"
+  },
+  {
+    "id": "830074",
+    "time1": [
+      "[525] Reaach",
+      "[180] Justcallmylove",
+      "[180] toslide",
+      "[715] velhinhas"
+    ],
+    "time2": [
+      "[180] crimeconstante",
+      "[490] IlyMilfs",
+      "[500] fuzuq",
+      "[0] Rocktzw"
+    ],
+    "mapa": "Maple",
+    "canal1": "1362118805773357209",
+    "canal2": "1362118807593685203",
+    "data": "2025-04-16T17:33:52.851Z"
+  },
+  {
+    "id": "146728",
+    "time1": [
+      "[0] Rocktzw",
+      "[0] IVETE",
+      "[145] wannastilboy",
+      "[180] Justcallmylove"
+    ],
+    "time2": [
+      "[490] IlyMilfs",
+      "[500] fuzuq",
+      "[180] crimeconstante",
+      "[715] velhinhas"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1362120133522358316",
+    "canal2": "1362120136076820530",
+    "data": "2025-04-16T17:39:09.749Z"
+  },
+  {
+    "id": "930088",
+    "time1": [
+      "[725] pecaos",
+      "[500] fuzuq",
+      "[180] crimeconstante",
+      "[490] IlyMilfs"
+    ],
+    "time2": [
+      "two9molesta rindo dorme chorando",
+      "[0] altdohv",
+      "[345] ekuator",
+      "[300] knrv"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1362169556721729647",
+    "canal2": "1362169558424617010",
+    "data": "2025-04-16T20:55:34.210Z"
+  },
+  {
+    "id": "201178",
+    "time1": [
+      "[0] wannaseecry",
+      "[180] Justcallmylove",
+      "[0] recriar",
+      "[270] myblood7"
+    ],
+    "time2": [
+      "[45] GANGMEMBER2K17",
+      "[0] safecurity",
+      "[90] 10minits",
+      "[0] mh0836"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1362451712325062937",
+    "canal2": "1362451713621229759",
+    "data": "2025-04-17T15:36:43.585Z"
+  },
+  {
+    "id": "938335",
+    "time1": [
+      "[0] quemestaaqui",
+      "[180] safecurity",
+      "[340] 10minits",
+      "[60] VHZX"
+    ],
+    "time2": [
+      "[240] Justcallmylove",
+      "[210] crimesensacional",
+      "[725] pecaos",
+      "[90] recriar"
+    ],
+    "mapa": "Maple",
+    "canal1": "1362458998481223783",
+    "canal2": "1362459000171532660",
+    "data": "2025-04-17T16:05:41.078Z"
+  },
+  {
+    "id": "930009",
+    "time1": [
+      "[0] 85years",
+      "[330] 10minits",
+      "[0] Rocktzw",
+      "[0] significante"
+    ],
+    "time2": [
+      "[285] Justcallmylove",
+      "[150] safecurity",
+      "[180] afake21",
+      "[0] MaquinaNebulosa"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1362509295329218852",
+    "canal2": "1362509296679649578",
+    "data": "2025-04-17T19:25:32.973Z"
+  },
+  {
+    "id": "375808",
+    "time1": [
+      "[105] cryformy",
+      "[0] MaquinaNebulosa",
+      "[180] afake21",
+      "[0] significante"
+    ],
+    "time2": [
+      "[285] Justcallmylove",
+      "[0] Rocktzw",
+      "[330] 10minits",
+      "[0] mwlv"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1362511164906668052",
+    "canal2": "1362511166437589145",
+    "data": "2025-04-17T19:32:58.557Z"
+  },
+  {
+    "id": "537030",
+    "time1": [
+      "[0] significante",
+      "[90] MaquinaNebulosa",
+      "[0] GANGMEMBER2K17",
+      "[315] tupaccshakur."
+    ],
+    "time2": [
+      "[0] Rocktzw",
+      "[375] Justcallmylove",
+      "[0] Evanescente",
+      "[0] autodidata"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1362511841846104165",
+    "canal2": "1362511844023078923",
+    "data": "2025-04-17T19:35:39.867Z"
+  },
+  {
+    "id": "944853",
+    "time1": [
+      "[395] Justcallmylove",
+      "[315] autodidata",
+      "[0] significante",
+      "[0] Rocktzw"
+    ],
+    "time2": [
+      "[105] GANGMEMBER2K17",
+      "[90] MaquinaNebulosa",
+      "[0] Evanescente",
+      "[0] demonofsexy"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1362513551587016704",
+    "canal2": "1362513552874799317",
+    "data": "2025-04-17T19:42:27.743Z"
+  },
+  {
+    "id": "211403",
+    "time1": [
+      "[500] opniao",
+      "[270] afake21",
+      "[525] Reaach",
+      "[90] rocktzw"
+    ],
+    "time2": [
+      "[360] MaquinaNebulosa",
+      "[410] drogaly",
+      "[300] 10minits",
+      "[395] GANGMEMBER2K17"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1362544030063399082",
+    "canal2": "1362544031585931264",
+    "data": "2025-04-17T21:43:34.090Z"
+  },
+  {
+    "id": "526859",
+    "time1": [
+      "[500] opniao",
+      "[0] holdmystrafe",
+      "[0] SerasaEntrosaPvP",
+      "[525] Reaach"
+    ],
+    "time2": [
+      "[90] rocktzw",
+      "[410] drogaly",
+      "[395] GANGMEMBER2K17",
+      "[270] afake21"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1362545353030897828",
+    "canal2": "1362545354972598444",
+    "data": "2025-04-17T21:48:49.864Z"
+  },
+  {
+    "id": "646122",
+    "time1": [
+      "[525] Reaach",
+      "[90] rocktzw",
+      "[360] MaquinaNebulosa",
+      "[410] drogaly"
+    ],
+    "time2": [
+      "[395] GANGMEMBER2K17",
+      "[300] 10minits",
+      "[270] afake21"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1362545853411103140",
+    "canal2": "1362545854971642009",
+    "data": "2025-04-17T21:50:48.702Z"
+  },
+  {
+    "id": "739519",
+    "time1": [
+      "[0] holdmystrafe",
+      "[525] Reaach",
+      "[0] SerasaEntrosaPvP",
+      "[395] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[270] afake21",
+      "[410] drogaly",
+      "[300] 10minits",
+      "[345] ekuator"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1362546244890919032",
+    "canal2": "1362546246509924543",
+    "data": "2025-04-17T21:52:21.699Z"
+  },
+  {
+    "id": "659035",
+    "time1": [
+      "[525] Reaach",
+      "[345] ekuator",
+      "[490] knrv",
+      "[0] holdmystrafe"
+    ],
+    "time2": [
+      "[0] IVETE",
+      "[0] underbrave",
+      "[0] SerasaEntrosaPvP",
+      "[410] drogaly"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1362550102132260986",
+    "canal2": "1362550104363630643",
+    "data": "2025-04-17T22:07:42.235Z"
+  },
+  {
+    "id": "908032",
+    "time1": [
+      "[520] drogaly",
+      "[495] Reaach",
+      "[490] knrv",
+      "[435] ekuator"
+    ],
+    "time2": [
+      "[500] opniao",
+      "[0] holdmystrafe",
+      "[0] gordelaspanceta",
+      "[0] SerasaEntrosaPvP"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1362551146027417901",
+    "canal2": "1362551147310878900",
+    "data": "2025-04-17T22:11:50.846Z"
+  },
+  {
+    "id": "683188",
+    "time1": [
+      "[500] opniao",
+      "[495] Reaach",
+      "[435] ekuator",
+      "[0] apolloxtzv4"
+    ],
+    "time2": [
+      "[0] holdmystrafe",
+      "[490] knrv",
+      "[325] SerasaEntrosaPvP",
+      "[520] drogaly"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1362562786068135936",
+    "canal2": "1362562788173545676",
+    "data": "2025-04-17T22:58:06.192Z"
+  },
+  {
+    "id": "516601",
+    "time1": [
+      "[600] knrv",
+      "[610] drogaly",
+      "[585] Reaach",
+      "[470] opniao"
+    ],
+    "time2": [
+      "[525] ekuator",
+      "[0] holdmystrafe",
+      "[365] GANGMEMBER2K17",
+      "[295] SerasaEntrosaPvP"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1362566281668329502",
+    "canal2": "1362566283501109378",
+    "data": "2025-04-17T23:11:59.099Z"
+  },
+  {
+    "id": "660790",
+    "time1": [
+      "[295] SerasaEntrosaPvP",
+      "[525] ekuator",
+      "[715] velhinhas",
+      "[470] opniao"
+    ],
+    "time2": [
+      "[0] holdmystrafe",
+      "[585] Reaach",
+      "[610] drogaly",
+      "[365] GANGMEMBER2K17"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1362566886272794805",
+    "canal2": "1362566887988269126",
+    "data": "2025-04-17T23:14:23.435Z"
+  },
+  {
+    "id": "160725",
+    "time1": [
+      "[570] knrv",
+      "[265] SerasaEntrosaPvP",
+      "[0] holdmystrafe",
+      "[615] ekuator"
+    ],
+    "time2": [
+      "[0] gordelaspanceta",
+      "[90] rocktzw",
+      "[365] GANGMEMBER2K17",
+      "[560] opniao"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1362568983319937275",
+    "canal2": "1362568985022828624",
+    "data": "2025-04-17T23:22:43.452Z"
+  },
+  {
+    "id": "926171",
+    "time1": [
+      "[500] demonofsexy",
+      "[60] Evanescente",
+      "[715] velhinhas",
+      "[0] Haritsu"
+    ],
+    "time2": [
+      "[240] safecurity",
+      "[380] Justcallmylove",
+      "[335] GANGMEMBER2K17",
+      "[300] knrv"
+    ],
+    "mapa": "Maple",
+    "canal1": "1362857406110896360",
+    "canal2": "1362857408250118264",
+    "data": "2025-04-18T18:28:48.771Z"
+  },
+  {
+    "id": "121304",
+    "time1": [
+      "[560] Justcallmylove",
+      "[360] MaquinaNebulosa",
+      "[505] 7knr",
+      "[425] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[775] velhinhas",
+      "[30] Evanescente",
+      "[615] demonofsexy",
+      "[0] Haritsu"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1362862419071860957",
+    "canal2": "1362862420430815614",
+    "data": "2025-04-18T18:48:43.975Z"
+  },
+  {
+    "id": "235326",
+    "time1": [
+      "[560] Justcallmylove",
+      "[775] velhinhas",
+      "[0] Evanescente",
+      "[0] Haritsu"
+    ],
+    "time2": [
+      "[330] MaquinaNebulosa",
+      "[395] GANGMEMBER2K17",
+      "[615] demonofsexy",
+      "[505] 7knr"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1362862897373380718",
+    "canal2": "1362862898720018683",
+    "data": "2025-04-18T18:50:38.427Z"
+  },
+  {
+    "id": "756486",
+    "time1": [
+      "[560] Justcallmylove",
+      "[300] safecurity",
+      "[330] MaquinaNebulosa",
+      "[615] demonofsexy"
+    ],
+    "time2": [
+      "[505] 7knr",
+      "[395] GANGMEMBER2K17",
+      "[0] Evanescente",
+      "[775] velhinhas"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1362865082975125607",
+    "canal2": "1362865084845654106",
+    "data": "2025-04-18T18:59:19.284Z"
+  },
+  {
+    "id": "391994",
+    "time1": [
+      "[270] safecurity",
+      "[955] velhinhas",
+      "[0] Demonys",
+      "[0] zonaNortecity"
+    ],
+    "time2": [
+      "[115] rocktzw",
+      "[0] soumtbaixinhakk",
+      "[240] _zuxt",
+      "[455] GANGMEMBER2K17"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1363169738733392044",
+    "canal2": "1363169740528418946",
+    "data": "2025-04-19T15:09:54.851Z"
+  },
+  {
+    "id": "745769",
+    "time1": [
+      "[0] gordao <3",
+      "[240] _zuxt",
+      "[455] GANGMEMBER2K17",
+      "[0] zonaNortecity"
+    ],
+    "time2": [
+      "[955] velhinhas",
+      "[0] soumtbaixinhakk",
+      "[270] safecurity",
+      "[115] rocktzw"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1363171222539604008",
+    "canal2": "1363171224179576882",
+    "data": "2025-04-19T15:15:48.499Z"
+  },
+  {
+    "id": "235378",
+    "time1": [
+      "[240] _zuxt",
+      "[0] soumtbaixinhakk",
+      "[270] safecurity",
+      "[455] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[955] velhinhas",
+      "[115] rocktzw",
+      "[390] 10minits",
+      "[0] gordao <3"
+    ],
+    "mapa": "Maple",
+    "canal1": "1363173276054196264",
+    "canal2": "1363173278201413673",
+    "data": "2025-04-19T15:23:58.556Z"
+  },
+  {
+    "id": "947970",
+    "time1": [
+      "[480] 10minits",
+      "[425] GANGMEMBER2K17",
+      "[210] _zuxt",
+      "[0] wwiwwiwwiww"
+    ],
+    "time2": [
+      "[90] _miyuze",
+      "[1060] velhinhas",
+      "[0] AY4"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1363176264759902430",
+    "canal2": "1363176266882220103",
+    "data": "2025-04-19T15:35:50.330Z"
+  },
+  {
+    "id": "996218",
+    "time1": [
+      "[0] Demonys",
+      "[480] 10minits",
+      "[205] rocktzw",
+      "[1060] velhinhas"
+    ],
+    "time2": [
+      "[0] zonaNortecity",
+      "[90] _miyuze",
+      "[0] soumtbaixinhakk",
+      "[0] AY4"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1363176467332333679",
+    "canal2": "1363176469026574592",
+    "data": "2025-04-19T15:36:38.808Z"
+  },
+  {
+    "id": "197925",
+    "time1": [
+      "[210] _zuxt",
+      "[1060] velhinhas",
+      "[90] huntingmysoul | gordao",
+      "[0] soumtbaixinhakk"
+    ],
+    "time2": [
+      "[0] wwiwwiwwiww",
+      "[0] AY4",
+      "[0] Demonys",
+      "[205] rocktzw"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1363177312996163656",
+    "canal2": "1363177314824880308",
+    "data": "2025-04-19T15:40:00.586Z"
+  },
+  {
+    "id": "351163",
+    "time1": [
+      "[90] huntingmysoul | gordao",
+      "[425] GANGMEMBER2K17",
+      "[0] AY4",
+      "[205] rocktzw"
+    ],
+    "time2": [
+      "[210] _zuxt",
+      "[0] wwiwwiwwiww",
+      "[0] soumtbaixinhakk",
+      "[1060] velhinhas"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1363177955978772570",
+    "canal2": "1363177958377914450",
+    "data": "2025-04-19T15:42:34.167Z"
+  },
+  {
+    "id": "696050",
+    "time1": [
+      "[0] AY4",
+      "[680] knrv",
+      "[210] _zuxt",
+      "[205] rocktzw"
+    ],
+    "time2": [
+      "[90] huntingmysoul | gordao",
+      "[1060] velhinhas",
+      "[425] GANGMEMBER2K17",
+      "[0] soumtbaixinhakk"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1363179402523054371",
+    "canal2": "1363179404552962180",
+    "data": "2025-04-19T15:48:18.696Z"
+  },
+  {
+    "id": "156958",
+    "time1": [
+      "[210] _zuxt",
+      "[180] toslide",
+      "[0] soumtbaixinhakk",
+      "[0] wwiwwiwwiww"
+    ],
+    "time2": [
+      "[680] knrv",
+      "[205] rocktzw",
+      "[425] GANGMEMBER2K17",
+      "[0] AY4"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1363181335685890320",
+    "canal2": "1363181337564938321",
+    "data": "2025-04-19T15:55:59.618Z"
+  },
+  {
+    "id": "747180",
+    "time1": [
+      "[0] Emanoella",
+      "[0] hezequel",
+      "[740] knrv",
+      "[620] Justcallmylove"
+    ],
+    "time2": [
+      "[380] SerasaEntrosaPvP",
+      "[0] 1e50",
+      "[265] rocktzw",
+      "[705] ekuator"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1363259308686446592",
+    "canal2": "1363259310108311602",
+    "data": "2025-04-19T21:05:49.634Z"
+  },
+  {
+    "id": "326484",
+    "time1": [
+      "[705] ekuator",
+      "[740] knrv",
+      "[90] holdmystrafe",
+      "[60] soumtbaixinhakk"
+    ],
+    "time2": [
+      "[565] 7knr",
+      "[0] 1e50",
+      "[530] Emanoella",
+      "[0] wwiwwiwwiww"
+    ],
+    "mapa": "Maple",
+    "canal1": "1363270127126315018",
+    "canal2": "1363270128799580161",
+    "data": "2025-04-19T21:48:49.100Z"
+  },
+  {
+    "id": "399854",
+    "time1": [
+      "[60] soumtbaixinhakk",
+      "[0] hezequel",
+      "[705] ekuator",
+      "[565] 7knr"
+    ],
+    "time2": [
+      "[530] Emanoella",
+      "[740] knrv",
+      "[90] holdmystrafe",
+      "[0] wwiwwiwwiww"
+    ],
+    "mapa": "Maple",
+    "canal1": "1363270434820198460",
+    "canal2": "1363270436246388796",
+    "data": "2025-04-19T21:50:02.344Z"
+  },
+  {
+    "id": "215270",
+    "time1": [
+      "[740] knrv",
+      "[530] Emanoella",
+      "[705] ekuator",
+      "[150] toslide"
+    ],
+    "time2": [
+      "[60] soumtbaixinhakk",
+      "[695] GANGMEMBER2K17",
+      "[0] hezequel",
+      "[565] 7knr"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1363273855249940620",
+    "canal2": "1363273857104089108",
+    "data": "2025-04-19T22:03:37.895Z"
+  },
+  {
+    "id": "346653",
+    "time1": [
+      "[265] rocktzw",
+      "[565] 7knr",
+      "[0] hezequel",
+      "[150] toslide"
+    ],
+    "time2": [
+      "[90] holdmystrafe",
+      "[0] wwiwwiwwiww",
+      "[530] Emanoella",
+      "[60] badbangg"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1363274406146605277",
+    "canal2": "1363274407442645003",
+    "data": "2025-04-19T22:05:49.272Z"
+  },
+  {
+    "id": "747909",
+    "time1": [
+      "[60] badbangg",
+      "[530] Emanoella",
+      "[0] soumtbaixinhakk",
+      "[90] holdmystrafe"
+    ],
+    "time2": [
+      "[565] 7knr",
+      "[150] toslide",
+      "[265] rocktzw",
+      "[0] hezequel"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1363276089341906954",
+    "canal2": "1363276091405504532",
+    "data": "2025-04-19T22:12:30.740Z"
+  },
+  {
+    "id": "568999",
+    "time1": [
+      "[530] Emanoella",
+      "[0] soumtbaixinhakk",
+      "[0] wwiwwiwwiww",
+      "[565] 7knr"
+    ],
+    "time2": [
+      "[90] holdmystrafe",
+      "[0] hezequel",
+      "[150] toslide",
+      "[265] rocktzw"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1363279532894720205",
+    "canal2": "1363279534824100020",
+    "data": "2025-04-19T22:26:11.788Z"
+  },
+  {
+    "id": "362832",
+    "time1": [
+      "[0] hezequel",
+      "[530] Emanoella",
+      "[0] soumtbaixinhakk",
+      "[0] wwiwwiwwiww"
+    ],
+    "time2": [
+      "[565] 7knr",
+      "[620] Justcallmylove",
+      "[265] rocktzw",
+      "[90] holdmystrafe"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1363282862450671687",
+    "canal2": "1363282863742783509",
+    "data": "2025-04-19T22:39:25.684Z"
+  },
+  {
+    "id": "231645",
+    "time1": [
+      "[150] toslide",
+      "[565] 7knr",
+      "[0] wwiwwiwwiww",
+      "[530] Emanoella"
+    ],
+    "time2": [
+      "[0] hezequel",
+      "[675] Reaach",
+      "[60] badbangg",
+      "[0] soumtbaixinhakk"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1363286506696872127",
+    "canal2": "1363286508215468072",
+    "data": "2025-04-19T22:53:54.293Z"
+  },
+  {
+    "id": "274906",
+    "time1": [
+      "[0] hezequel",
+      "[0] wwiwwiwwiww",
+      "[60] badbangg",
+      "[0] soumtbaixinhakk"
+    ],
+    "time2": [
+      "[675] Reaach",
+      "[620] Justcallmylove",
+      "[265] rocktzw",
+      "[530] Emanoella"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1363286687483957259",
+    "canal2": "1363286689556201674",
+    "data": "2025-04-19T22:54:37.204Z"
+  },
+  {
+    "id": "436869",
+    "time1": [
+      "[620] Justcallmylove",
+      "[265] rocktzw",
+      "[0] wwiwwiwwiww",
+      "[530] Emanoella"
+    ],
+    "time2": [
+      "[675] Reaach",
+      "[60] badbangg",
+      "[0] soumtbaixinhakk",
+      "[0] hezequel"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1363287367649333258",
+    "canal2": "1363287368572080230",
+    "data": "2025-04-19T22:57:19.308Z"
+  },
+  {
+    "id": "615084",
+    "time1": [
+      "[90] AY4",
+      "[935] knrv",
+      "[700] Emanoella",
+      "[0] zenits_massa"
+    ],
+    "time2": [
+      "[580] drogaly",
+      "[240] safecurity",
+      "[655] 7knr",
+      "[675] Reaach"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1363984369265414257",
+    "canal2": "1363984373031899176",
+    "data": "2025-04-21T21:06:58.155Z"
+  },
+  {
+    "id": "779169",
+    "time1": [
+      "[240] safecurity",
+      "[655] 7knr",
+      "[675] Reaach",
+      "[580] drogaly"
+    ],
+    "time2": [
+      "[90] AY4",
+      "[350] SerasaEntrosaPvP",
+      "[935] knrv",
+      "[0] zenits_massa"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1363985057517404210",
+    "canal2": "1363985058901397625",
+    "data": "2025-04-21T21:09:41.781Z"
+  },
+  {
+    "id": "142011",
+    "time1": [
+      "[240] safecurity",
+      "[655] 7knr",
+      "[0] zenits_massa",
+      "[350] SerasaEntrosaPvP"
+    ],
+    "time2": [
+      "[675] Reaach",
+      "[935] knrv",
+      "[580] drogaly",
+      "[90] AY4"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1363986579273809931",
+    "canal2": "1363986581886603415",
+    "data": "2025-04-21T21:15:45.041Z"
+  },
+  {
+    "id": "226303",
+    "time1": [
+      "[935] knrv",
+      "[655] 7knr",
+      "[350] SerasaEntrosaPvP",
+      "[90] AY4"
+    ],
+    "time2": [
+      "[0] zenits_massa",
+      "[675] Reaach",
+      "[240] safecurity",
+      "[580] drogaly"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1363986933214347396",
+    "canal2": "1363986935118434344",
+    "data": "2025-04-21T21:17:09.209Z"
+  },
+  {
+    "id": "634003",
+    "time1": [
+      "[720] Reaach",
+      "[295] safecurity",
+      "[150] hezequel",
+      "[670] drogaly"
+    ],
+    "time2": [
+      "[90] AY4",
+      "[350] SerasaEntrosaPvP",
+      "[0] zenits_massa",
+      "[935] knrv"
+    ],
+    "mapa": "Maple",
+    "canal1": "1363988643391471736",
+    "canal2": "1363988645287170089",
+    "data": "2025-04-21T21:23:57.004Z"
+  },
+  {
+    "id": "768133",
+    "time1": [
+      "[995] knrv",
+      "[0] sheismywrld",
+      "[700] Emanoella",
+      "[410] SerasaEntrosaPvP"
+    ],
+    "time2": [
+      "[640] drogaly",
+      "[265] safecurity",
+      "[150] hezequel",
+      "[150] AY4"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1363993400000516237",
+    "canal2": "1363993402642927656",
+    "data": "2025-04-21T21:42:51.238Z"
+  },
+  {
+    "id": "886908",
+    "time1": [
+      "[1150] velhinhas",
+      "[995] knrv",
+      "[150] hezequel",
+      "[265] safecurity"
+    ],
+    "time2": [
+      "[790] 7knr",
+      "[0] sheismywrld",
+      "[700] Emanoella",
+      "[410] SerasaEntrosaPvP"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1363993898032042168",
+    "canal2": "1363993900452417787",
+    "data": "2025-04-21T21:44:49.560Z"
+  },
+  {
+    "id": "296038",
+    "time1": [
+      "[320] rocktzw",
+      "[625] drogaly",
+      "[540] SerasaEntrosaPvP",
+      "[210] toslide"
+    ],
+    "time2": [
+      "[360] afake21",
+      "[760] Emanoella",
+      "[255] hezequel",
+      "[45] faturar"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1364322769948512357",
+    "canal2": "1364322771366051850",
+    "data": "2025-04-22T19:31:38.866Z"
+  },
+  {
+    "id": "327912",
+    "time1": [
+      "[0] 6j2",
+      "[0] 1grau",
+      "[680] Justcallmylove",
+      "[640] drogaly"
+    ],
+    "time2": [
+      "[1135] velhinhas",
+      "[1100] knrv",
+      "[310] safecurity",
+      "[0] idontlikexiiiter"
+    ],
+    "mapa": "Maple",
+    "canal1": "1364343874960752681",
+    "canal2": "1364343875858206813",
+    "data": "2025-04-22T20:55:30.586Z"
+  },
+  {
+    "id": "445968",
+    "time1": [
+      "[310] safecurity",
+      "[0] 6j2",
+      "[1135] velhinhas",
+      "[680] Justcallmylove"
+    ],
+    "time2": [
+      "[0] apelfofinhokwai",
+      "[1100] knrv",
+      "[740] Reaach",
+      "[0] 1grau"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1364344370261917777",
+    "canal2": "1364344371868205158",
+    "data": "2025-04-22T20:57:28.940Z"
+  },
+  {
+    "id": "346919",
+    "time1": [
+      "[0] usuariodenight",
+      "[1225] velhinhas",
+      "[90] 1grau",
+      "[0] 6j2"
+    ],
+    "time2": [
+      "[655] drogaly",
+      "[1040] knrv",
+      "[695] Justcallmylove",
+      "[380] rocktzw"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1364348148994150440",
+    "canal2": "1364348150713680003",
+    "data": "2025-04-22T21:12:29.549Z"
+  },
+  {
+    "id": "619447",
+    "time1": [
+      "[0] usuariodenight",
+      "[1040] knrv",
+      "[90] 1grau",
+      "[655] drogaly"
+    ],
+    "time2": [
+      "[0] 6j2",
+      "[1225] velhinhas",
+      "[695] Justcallmylove",
+      "[380] rocktzw"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1364349292218683423",
+    "canal2": "1364349294609436712",
+    "data": "2025-04-22T21:17:02.488Z"
+  },
+  {
+    "id": "781126",
+    "time1": [
+      "[1040] knrv",
+      "[0] 6j2",
+      "[325] toslide",
+      "[380] rocktzw"
+    ],
+    "time2": [
+      "[1225] velhinhas",
+      "[90] 1grau",
+      "[655] drogaly",
+      "[0] usuariodenight"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1364354164343177268",
+    "canal2": "1364354166272688291",
+    "data": "2025-04-22T21:36:24.173Z"
+  },
+  {
+    "id": "933301",
+    "time1": [
+      "[-30] usuariodenight",
+      "[60] 1grau",
+      "[1010] knrv",
+      "[325] toslide"
+    ],
+    "time2": [
+      "[425] rocktzw",
+      "[45] bt6y",
+      "[625] drogaly",
+      "[1270] velhinhas"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1364354802858983506",
+    "canal2": "1364354805358788758",
+    "data": "2025-04-22T21:38:56.092Z"
+  },
+  {
+    "id": "415726",
+    "time1": [
+      "[1315] velhinhas",
+      "[670] drogaly",
+      "[45] bt6y",
+      "[295] toslide"
+    ],
+    "time2": [
+      "[-60] usuariodenight",
+      "[75] 1grau",
+      "[980] knrv",
+      "[470] rocktzw"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1364356825994236015",
+    "canal2": "1364356827231551529",
+    "data": "2025-04-22T21:46:58.160Z"
+  },
+  {
+    "id": "226663",
+    "time1": [
+      "[45] Evanescente",
+      "[45] Justcallmylove",
+      "[0] wwiwwiwwiww",
+      "[0] velhinhas"
+    ],
+    "time2": [
+      "[0] jqao",
+      "[0] ajaxnzz",
+      "[0] ekuator",
+      "[45] _pexis"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1366088280830906528",
+    "canal2": "1366088282483589170",
+    "data": "2025-04-27T16:27:09.356Z"
+  },
+  {
+    "id": "424712",
+    "time1": [
+      "[45] _pexis",
+      "[0] huntingmysoul",
+      "[0] ajaxnzz",
+      "[0] jqao"
+    ],
+    "time2": [
+      "[0] velhinhas",
+      "[0] demonofsexy",
+      "[0] wwiwwiwwiww",
+      "[45] Justcallmylove"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1366089111445700729",
+    "canal2": "1366089112951717989",
+    "data": "2025-04-27T16:30:27.380Z"
+  },
+  {
+    "id": "495860",
+    "time1": [
+      "[0] Evanescente",
+      "[45] _pexis",
+      "[0] demonofsexy",
+      "[0] ajaxnzz"
+    ],
+    "time2": [
+      "[45] Justcallmylove",
+      "[0] wwiwwiwwiww",
+      "[0] velhinhas",
+      "[0] jqao"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1366089409652330627",
+    "canal2": "1366089412219371540",
+    "data": "2025-04-27T16:31:38.658Z"
+  },
+  {
+    "id": "869150",
+    "time1": [
+      "[0] demonofsexy",
+      "[45] Evanescente",
+      "[0] jqao",
+      "[0] velhinhas"
+    ],
+    "time2": [
+      "[45] _pexis",
+      "[0] hq45",
+      "[45] Justcallmylove",
+      "[0] ajaxnzz"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1366090975797186592",
+    "canal2": "1366090977592475689",
+    "data": "2025-04-27T16:37:53.273Z"
+  },
+  {
+    "id": "347889",
+    "time1": [
+      "[0] chxatyprime",
+      "[0] 65k4",
+      "[45] demonofsexy",
+      "[45] safecurity"
+    ],
+    "time2": [
+      "[0] recriar",
+      "[0] ClayCraftzinn",
+      "[0] huntingmysoul",
+      "[0] _zuxt"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1366466276716970014",
+    "canal2": "1366466278688297030",
+    "data": "2025-04-28T17:29:10.988Z"
+  },
+  {
+    "id": "089855",
+    "time1": [
+      "[0] chxatyprime",
+      "[0] huntingmysoul",
+      "[0] 65k4",
+      "[0] 100v1"
+    ],
+    "time2": [
+      "[0] _zuxt",
+      "[0] recriar",
+      "[45] demonofsexy",
+      "[45] safecurity"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1366469388647137432",
+    "canal2": "1366469390194835476",
+    "data": "2025-04-28T17:41:32.418Z"
+  },
+  {
+    "id": "878354",
+    "time1": [
+      "[0] _zuxt",
+      "[90] huntingmysoul",
+      "[0] bristez",
+      "[150] 65k4"
+    ],
+    "time2": [
+      "[0] recriar",
+      "[90] chxatyprime",
+      "[60] demonofsexy",
+      "[0] 666MATHEUSVIN13"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1366481084253999234",
+    "canal2": "1366481085533393058",
+    "data": "2025-04-28T18:28:00.958Z"
+  },
+  {
+    "id": "750866",
+    "time1": [
+      "[0] _zuxt",
+      "[90] chxatyprime",
+      "[90] huntingmysoul",
+      "[45] 100v1"
+    ],
+    "time2": [
+      "[0] abalay",
+      "[150] 65k4",
+      "[0] 666MATHEUSVIN13",
+      "[0] bristez"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1366484743792885792",
+    "canal2": "1366484745730658396",
+    "data": "2025-04-28T18:42:33.504Z"
+  },
+  {
+    "id": "480326",
+    "time1": [
+      "[45] ChicoChapeleiro",
+      "[60] chxatyprime",
+      "[45] 100v1",
+      "[25] 666MATHEUSVIN13"
+    ],
+    "time2": [
+      "[195] 65k4",
+      "[30] demonofsexy",
+      "[135] huntingmysoul",
+      "[0] abalay"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1366487804254621726",
+    "canal2": "1366487806129602610",
+    "data": "2025-04-28T18:54:44.306Z"
+  },
+  {
+    "id": "589704",
+    "time1": [
+      "[90] Evanescente",
+      "[100] amlincestuoso",
+      "[15] _zuxt",
+      "[0] kyvzo"
+    ],
+    "time2": [
+      "[0] vhu",
+      "[0] kdolkpa",
+      "[60] safecurity",
+      "[140] 666MATHEUSVIN13"
+    ],
+    "mapa": "Maple",
+    "canal1": "1366920275526156360",
+    "canal2": "1366920277249884230",
+    "data": "2025-04-29T23:33:12.131Z"
+  },
+  {
+    "id": "108523",
+    "time1": [
+      "[90] Evanescente",
+      "[0] kyvzo",
+      "[0] kdolkpa",
+      "[140] 666MATHEUSVIN13"
+    ],
+    "time2": [
+      "[0] demonofsexy",
+      "[100] amlincestuoso",
+      "[0] pedrobigchilling",
+      "[15] _zuxt"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1366922451941855352",
+    "canal2": "1366922453879881732",
+    "data": "2025-04-29T23:41:51.396Z"
+  },
+  {
+    "id": "608142",
+    "time1": [
+      "[105] Evanescente",
+      "[140] amlincestuoso",
+      "[0] demonofsexy",
+      "[0] safecurity"
+    ],
+    "time2": [
+      "[15] pedrobigchilling",
+      "[185] 666MATHEUSVIN13",
+      "[210] 65k4",
+      "[0] defaaybjaawg"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1366928741707546656",
+    "canal2": "1366928743196524585",
+    "data": "2025-04-30T00:06:50.814Z"
+  },
+  {
+    "id": "955587",
+    "time1": [
+      "[60] 100v1",
+      "[0] PenarLonga",
+      "[75] chxatyprime",
+      "[0] recriar"
+    ],
+    "time2": [
+      "[0] demonofsexy",
+      "[75] Evanescente",
+      "[0] aventurar",
+      "[0] iLiter"
+    ],
+    "mapa": "Maple",
+    "canal1": "1367307686361698374",
+    "canal2": "1367307688391868526",
+    "data": "2025-05-01T01:12:38.448Z"
+  },
+  {
+    "id": "594707",
+    "time1": [
+      "[25] iLiter",
+      "[100] GANGMEMBER2K17",
+      "[0] dxstroyed",
+      "[0] hersouls"
+    ],
+    "time2": [
+      "[120] Evanescente",
+      "[120] chxatyprime",
+      "[0] aventurar",
+      "[0] PenarLonga"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1367310366974939136",
+    "canal2": "1367310368439009332",
+    "data": "2025-05-01T01:23:17.333Z"
+  },
+  {
+    "id": "533414",
+    "time1": [
+      "[60] chxatyprime",
+      "[15] aventurar",
+      "[0] usuariodenight",
+      "[275] 666MATHEUSVIN13"
+    ],
+    "time2": [
+      "[0] cupidoque",
+      "[135] Evanescente",
+      "[45] ajaxnzz",
+      "[0] safecurity"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1367532407904796763",
+    "canal2": "1367532409632981054",
+    "data": "2025-05-01T16:05:36.115Z"
+  },
+  {
+    "id": "215764",
+    "time1": [
+      "[15] aventurar",
+      "[45] ajaxnzz",
+      "[100] anxietygirls",
+      "[0] usuariodenight"
+    ],
+    "time2": [
+      "[0] bailedefavelaa",
+      "[0] PenarLonga",
+      "[275] 666MATHEUSVIN13",
+      "[60] chxatyprime"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1367535269955375184",
+    "canal2": "1367535271767445594",
+    "data": "2025-05-01T16:16:58.613Z"
+  },
+  {
+    "id": "757059",
+    "time1": [
+      "[315] 666MATHEUSVIN13",
+      "[70] 666ABNT",
+      "[0] safecurity",
+      "[45] usuariodenight"
+    ],
+    "time2": [
+      "[255] Evanescente",
+      "[15] bailedefavelaa",
+      "[135] ajaxnzz",
+      "[0] MaquinaNebulosa"
+    ],
+    "mapa": "Maple",
+    "canal1": "1367541735080857774",
+    "canal2": "1367541737127677962",
+    "data": "2025-05-01T16:42:39.824Z"
+  },
+  {
+    "id": "336890",
+    "time1": [
+      "[0] MaquinaNebulosa",
+      "[185] anxietygirls",
+      "[105] ajaxnzz",
+      "[15] bailedefavelaa"
+    ],
+    "time2": [
+      "[315] 666MATHEUSVIN13",
+      "[115] chxatyprime",
+      "[15] crlthedemon",
+      "[0] cupidoque"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1367544166481006663",
+    "canal2": "1367544168074973295",
+    "data": "2025-05-01T16:52:19.527Z"
+  },
+  {
+    "id": "390636",
+    "time1": [
+      "[105] ajaxnzz",
+      "[15] crlthedemon",
+      "[15] usuariodenight",
+      "[115] chxatyprime"
+    ],
+    "time2": [
+      "[45] safecurity",
+      "[315] 666MATHEUSVIN13",
+      "[0] MaquinaNebulosa",
+      "[70] 666ABNT"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1367544392184889456",
+    "canal2": "1367544393443311657",
+    "data": "2025-05-01T16:53:13.698Z"
+  },
+  {
+    "id": "487214",
+    "time1": [
+      "[0] _pex",
+      "[75] ajaxnzz",
+      "[360] 666MATHEUSVIN13",
+      "[140] 666ABNT"
+    ],
+    "time2": [
+      "[115] chxatyprime",
+      "[0] cupidoque",
+      "[15] crlthedemon",
+      "[0] MaquinaNebulosa"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1367548991369121812",
+    "canal2": "1367548993046974655",
+    "data": "2025-05-01T17:11:30.173Z"
+  },
+  {
+    "id": "562285",
+    "time1": [
+      "[145] ajaxnzz",
+      "[0] cupidoque",
+      "[0] provincias",
+      "[165] 666ABNT"
+    ],
+    "time2": [
+      "[60] safecurity",
+      "[145] GANGMEMBER2K17",
+      "[0] MaquinaNebulosa",
+      "[225] Evanescente"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1367553500652896459",
+    "canal2": "1367553502880202822",
+    "data": "2025-05-01T17:29:25.236Z"
+  },
+  {
+    "id": "067230",
+    "time1": [
+      "[95] provincias",
+      "[30] safecurity",
+      "[280] ajaxnzz",
+      "[85] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[0] lentando",
+      "[0] Lariih",
+      "[110] amlincestuoso",
+      "[45] Fdlsss"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1367564007556513822",
+    "canal2": "1367564009263599616",
+    "data": "2025-05-01T18:11:09.908Z"
+  },
+  {
+    "id": "845611",
+    "time1": [
+      "[0] autodidata",
+      "[280] ajaxnzz",
+      "[0] fallhiting",
+      "[95] provincias"
+    ],
+    "time2": [
+      "[0] chwcheu",
+      "[85] GANGMEMBER2K17",
+      "[45] Fdlsss",
+      "[0] constpretty"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1367567271610024018",
+    "canal2": "1367567273744797777",
+    "data": "2025-05-01T18:24:08.294Z"
+  },
+  {
+    "id": "432772",
+    "time1": [
+      "[135] amlincestuoso",
+      "[300] 666ABNT",
+      "[430] 666MATHEUSVIN13",
+      "[130] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[30] safecurity",
+      "[0] lentando",
+      "[135] ChicoChapeleiro",
+      "[0] mitsubisheclipse"
+    ],
+    "mapa": "Maple",
+    "canal1": "1367569734610059284",
+    "canal2": "1367569735948177499",
+    "data": "2025-05-01T18:33:55.626Z"
+  },
+  {
+    "id": "158096",
+    "time1": [
+      "[235] MaquinaNebulosa",
+      "[470] ajaxApertaW",
+      "[505] KingRobinho",
+      "[45] kyvzo"
+    ],
+    "time2": [
+      "[0] PenarLonga",
+      "[0] phoonsy",
+      "[130] chxatyprime",
+      "[90] facingmyfeelings"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1368281614135857272",
+    "canal2": "1368281615759048724",
+    "data": "2025-05-03T17:42:40.632Z"
+  },
+  {
+    "id": "348359",
+    "time1": [
+      "[45] kyvzo",
+      "[250] GANGMEMBER2K17",
+      "[0] phoonsy",
+      "[380] confusedgirls"
+    ],
+    "time2": [
+      "[505] AmiltonPvP",
+      "[55] safecurity",
+      "[0] lyqro",
+      "[470] ajaxApertaW"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1368286606229766245",
+    "canal2": "1368286608339767349",
+    "data": "2025-05-03T18:02:31.121Z"
+  },
+  {
+    "id": "143778",
+    "time1": [
+      "[100] chxatyprime",
+      "[0] 2S2S2S2",
+      "[60] olhosmarcantes",
+      "[475] ajaxnzz"
+    ],
+    "time2": [
+      "[55] safecurity",
+      "[315] MaquinaNebulosa",
+      "[0] PenarLonga",
+      "[570] AmiltonPvP"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1368289942865969272",
+    "canal2": "1368289944514068553",
+    "data": "2025-05-03T18:15:46.606Z"
+  },
+  {
+    "id": "003889",
+    "time1": [
+      "[75] 100v1",
+      "[100] safecurity",
+      "[15] kyvzo",
+      "[60] facingmyfeelings"
+    ],
+    "time2": [
+      "[330] Evanescente",
+      "[630] AmiltonPvP",
+      "[230] GANGMEMBER2K17",
+      "[0] lyqro"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1368293550692765766",
+    "canal2": "1368293552819277926",
+    "data": "2025-05-03T18:30:06.984Z"
+  },
+  {
+    "id": "714365",
+    "time1": [
+      "[600] AmiltonPvP",
+      "[565] ajaxnzz",
+      "[135] 2S2S2S2",
+      "[0] K4K4K4K4K4K4"
+    ],
+    "time2": [
+      "[145] chxatyprime",
+      "[15] kyvzo",
+      "[230] GANGMEMBER2K17",
+      "[0] lyqro"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1368296530272059394",
+    "canal2": "1368296531995787304",
+    "data": "2025-05-03T18:41:57.003Z"
+  },
+  {
+    "id": "230113",
+    "time1": [
+      "[35] kyvzo",
+      "[645] AmiltonPvP",
+      "[145] chxatyprime",
+      "[275] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[135] 2S2S2S2",
+      "[565] ajaxnzz",
+      "[45] lyqro",
+      "[375] Evanescente"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1368298693454987435",
+    "canal2": "1368298694344179854",
+    "data": "2025-05-03T18:50:32.944Z"
+  },
+  {
+    "id": "061431",
+    "time1": [
+      "[420] Evanescente",
+      "[100] safecurity",
+      "[5] kyvzo",
+      "[135] 2S2S2S2"
+    ],
+    "time2": [
+      "[535] ajaxApertaW",
+      "[690] AmiltonPvP",
+      "[320] GANGMEMBER2K17",
+      "[0] K4K4K4K4K4K4"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1368302179986837517",
+    "canal2": "1368302181911887915",
+    "data": "2025-05-03T19:04:24.316Z"
+  },
+  {
+    "id": "140163",
+    "time1": [
+      "[0] phoonsy",
+      "[45] lyqro",
+      "[0] K4K4K4K4K4K4",
+      "[145] chxatyprime"
+    ],
+    "time2": [
+      "[690] AmiltonPvP",
+      "[420] Evanescente",
+      "[5] kyvzo",
+      "[135] 2S2S2S2"
+    ],
+    "mapa": "Maple",
+    "canal1": "1368302510342799460",
+    "canal2": "1368302511748026390",
+    "data": "2025-05-03T19:05:42.929Z"
+  },
+  {
+    "id": "203279",
+    "time1": [
+      "[320] GANGMEMBER2K17",
+      "[535] ajaxApertaW",
+      "[135] 2S2S2S2",
+      "[0] phoonsy"
+    ],
+    "time2": [
+      "[45] lyqro",
+      "[145] chxatyprime",
+      "[510] 666MATHEUSVIN13",
+      "[0] K4K4K4K4K4K4"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1368302775129079860",
+    "canal2": "1368302776492228849",
+    "data": "2025-05-03T19:06:46.169Z"
+  },
+  {
+    "id": "831671",
+    "time1": [
+      "[0] 666thebest666",
+      "[100] safecurity",
+      "[510] 666MATHEUSVIN13",
+      "[0] dAlveszxx"
+    ],
+    "time2": [
+      "[45] recriar",
+      "[505] ajaxApertaW",
+      "[690] AmiltonPvP",
+      "[0] K4K4K4K4K4K4"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1368305410536116285",
+    "canal2": "1368305413430317186",
+    "data": "2025-05-03T19:17:14.604Z"
+  },
+  {
+    "id": "986535",
+    "time1": [
+      "[5] kyvzo",
+      "[690] AmiltonPvP",
+      "[100] safecurity",
+      "[320] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[510] 666MATHEUSVIN13",
+      "[0] 666thebest666",
+      "[0] dAlveszxx",
+      "[0] K4K4K4K4K4K4"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1368306060728729861",
+    "canal2": "1368306062335283321",
+    "data": "2025-05-03T19:19:49.204Z"
+  },
+  {
+    "id": "376584",
+    "time1": [
+      "[0] K4K4K4K4K4K4",
+      "[365] GANGMEMBER2K17",
+      "[0] 666thebest666",
+      "[365] anxietygirls"
+    ],
+    "time2": [
+      "[0] ReiBatataa",
+      "[15] lyqro",
+      "[400] 666MATHEUSVIN13",
+      "[690] AmiltonPvP"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1368307696243183781",
+    "canal2": "1368307697732161539",
+    "data": "2025-05-03T19:26:19.114Z"
+  },
+  {
+    "id": "552725",
+    "time1": [
+      "[5] kyvzo",
+      "[100] safecurity",
+      "[15] lyqro",
+      "[690] AmiltonPvP"
+    ],
+    "time2": [
+      "[400] 666MATHEUSVIN13",
+      "[365] anxietygirls",
+      "[365] GANGMEMBER2K17",
+      "[0] 666thebest666"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1368308435208114257",
+    "canal2": "1368308436818858127",
+    "data": "2025-05-03T19:29:15.439Z"
+  },
+  {
+    "id": "640788",
+    "time1": [
+      "[100] safecurity",
+      "[365] GANGMEMBER2K17",
+      "[5] kyvzo",
+      "[690] AmiltonPvP"
+    ],
+    "time2": [
+      "[15] lyqro",
+      "[365] anxietygirls",
+      "[400] 666MATHEUSVIN13",
+      "[0] 666thebest666"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1368308804680417300",
+    "canal2": "1368308807553384490",
+    "data": "2025-05-03T19:30:43.995Z"
+  },
+  {
+    "id": "756077",
+    "time1": [
+      "[5] kyvzo",
+      "[365] GANGMEMBER2K17",
+      "[100] safecurity",
+      "[690] AmiltonPvP"
+    ],
+    "time2": [
+      "[15] lyqro",
+      "[365] anxietygirls",
+      "[400] 666MATHEUSVIN13",
+      "[45] recriar"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1368309287960449076",
+    "canal2": "1368309289864794132",
+    "data": "2025-05-03T19:32:38.821Z"
+  },
+  {
+    "id": "366840",
+    "time1": [
+      "[690] AmiltonPvP",
+      "[100] safecurity",
+      "[5] kyvzo",
+      "[365] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[365] anxietygirls",
+      "[45] recriar",
+      "[400] 666MATHEUSVIN13",
+      "[15] lyqro"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1368311849736732723",
+    "canal2": "1368311850948890706",
+    "data": "2025-05-03T19:42:49.396Z"
+  },
+  {
+    "id": "809113",
+    "time1": [
+      "[410] GANGMEMBER2K17",
+      "[15] lyqro",
+      "[380] anxietygirls",
+      "[750] AmiltonPvP"
+    ],
+    "time2": [
+      "[395] 666MATHEUSVIN13",
+      "[50] kyvzo",
+      "[145] safecurity",
+      "[15] recriar"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1368313704843837511",
+    "canal2": "1368313706165047357",
+    "data": "2025-05-03T19:50:11.863Z"
+  },
+  {
+    "id": "880615",
+    "time1": [
+      "[145] safecurity",
+      "[795] AmiltonPvP",
+      "[15] lyqro",
+      "[440] 666MATHEUSVIN13"
+    ],
+    "time2": [
+      "[380] GANGMEMBER2K17",
+      "[425] anxietygirls",
+      "[95] kyvzo",
+      "[15] recriar"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1368314004564475916",
+    "canal2": "1368314006808428716",
+    "data": "2025-05-03T19:51:23.482Z"
+  },
+  {
+    "id": "212226",
+    "time1": [
+      "[145] safecurity",
+      "[425] anxietygirls",
+      "[0] lyqro",
+      "[795] AmiltonPvP"
+    ],
+    "time2": [
+      "[95] kyvzo",
+      "[15] recriar",
+      "[440] 666MATHEUSVIN13",
+      "[380] GANGMEMBER2K17"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1368315395647209583",
+    "canal2": "1368315397467799592",
+    "data": "2025-05-03T19:56:55.358Z"
+  },
+  {
+    "id": "784425",
+    "time1": [
+      "[395] anxietygirls",
+      "[505] 666MATHEUSVIN13",
+      "[420] Evanescente",
+      "[350] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[65] kyvzo",
+      "[0] VHZX",
+      "[70] lyqro",
+      "[0] recriar"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1368317795711979662",
+    "canal2": "1368317797133979738",
+    "data": "2025-05-03T20:06:27.313Z"
+  },
+  {
+    "id": "822439",
+    "time1": [
+      "[505] 666MATHEUSVIN13",
+      "[0] VHZX",
+      "[0] recriar",
+      "[350] GANGMEMBER2K17"
+    ],
+    "time2": [
+      "[840] AmiltonPvP",
+      "[420] Evanescente",
+      "[395] anxietygirls",
+      "[70] lyqro"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1368317954764046397",
+    "canal2": "1368317957004066846",
+    "data": "2025-05-03T20:07:05.200Z"
+  },
+  {
+    "id": "847495",
+    "time1": [
+      "[395] anxietygirls",
+      "[420] Evanescente",
+      "[0] VHZX",
+      "[70] lyqro"
+    ],
+    "time2": [
+      "[505] 666MATHEUSVIN13",
+      "[0] recriar",
+      "[840] AmiltonPvP",
+      "[350] GANGMEMBER2K17"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1368318060045275289",
+    "canal2": "1368318061609746594",
+    "data": "2025-05-03T20:07:30.394Z"
+  },
+  {
+    "id": "272684",
+    "time1": [
+      "[420] Evanescente",
+      "[320] GANGMEMBER2K17",
+      "[140] iLiter",
+      "[145] safecurity"
+    ],
+    "time2": [
+      "[885] AmiltonPvP",
+      "[115] lyqro",
+      "[0] VHZX",
+      "[0] recriar"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1368319843421519892",
+    "canal2": "1368319845506224311",
+    "data": "2025-05-03T20:14:35.396Z"
+  },
+  {
+    "id": "295272",
+    "time1": [
+      "[885] AmiltonPvP",
+      "[0] VHZX",
+      "[0] recriar",
+      "[35] kyvzo"
+    ],
+    "time2": [
+      "[115] lyqro",
+      "[475] 666MATHEUSVIN13",
+      "[420] Evanescente",
+      "[440] anxietygirls"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1368319938028110016",
+    "canal2": "1368319939773075477",
+    "data": "2025-05-03T20:14:58.199Z"
+  },
+  {
+    "id": "190220",
+    "time1": [
+      "[50] kyvzo",
+      "[85] pedrobigchilling",
+      "[380] GANGMEMBER2K17",
+      "[160] iLiter"
+    ],
+    "time2": [
+      "[130] aoq",
+      "[120] VHZX",
+      "[550] ajaxApertaW",
+      "[435] Evanescente"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1368327886150434967",
+    "canal2": "1368327887840612422",
+    "data": "2025-05-03T20:46:32.803Z"
+  },
+  {
+    "id": "822442",
+    "time1": [
+      "[95] kyvzo",
+      "[205] iLiter",
+      "[425] GANGMEMBER2K17",
+      "[870] AmiltonPvP"
+    ],
+    "time2": [
+      "[45] uano",
+      "[25] lyqro",
+      "[545] 666MATHEUSVIN13",
+      "[130] aoq"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1368330537978036317",
+    "canal2": "1368330539542778023",
+    "data": "2025-05-03T20:57:05.267Z"
+  },
+  {
+    "id": "531346",
+    "time1": [
+      "[870] AmiltonPvP",
+      "[200] sxpace",
+      "[130] uano",
+      "[545] 666MATHEUSVIN13"
+    ],
+    "time2": [
+      "[50] lyqro",
+      "[205] iLiter",
+      "[120] kyvzo",
+      "[130] aoq"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1368333511450427474",
+    "canal2": "1368333513132343307",
+    "data": "2025-05-03T21:08:54.181Z"
+  },
+  {
+    "id": "959892",
+    "time1": [
+      "[580] 666MATHEUSVIN13",
+      "[95] lyqro",
+      "[90] kyvzo",
+      "[200] sxpace"
+    ],
+    "time2": [
+      "[870] AmiltonPvP",
+      "[200] uano",
+      "[410] anxietygirls",
+      "[45] aoq"
+    ],
+    "mapa": "Portabello",
+    "canal1": "1368335308936183928",
+    "canal2": "1368335310525567027",
+    "data": "2025-05-03T21:16:02.708Z"
+  },
+  {
+    "id": "273790",
+    "time1": [
+      "[0] zmfzl",
+      "[285] MaquinaNebulosa",
+      "[970] AmiltonPvP",
+      "[0] 85years"
+    ],
+    "time2": [
+      "[475] anxietygirls",
+      "[60] aoq",
+      "[290] uano",
+      "[15] depressedgirls"
+    ],
+    "mapa": "GingerBread",
+    "canal1": "1368345013997535296",
+    "canal2": "1368345015662809088",
+    "data": "2025-05-03T21:54:36.543Z"
+  },
+  {
+    "id": "802530",
+    "time1": [
+      "[970] AmiltonPvP",
+      "[290] uano",
+      "[90] zmfzl",
+      "[625] 666MATHEUSVIN13"
+    ],
+    "time2": [
+      "[285] MaquinaNebulosa",
+      "[475] anxietygirls",
+      "[435] Evanescente",
+      "[15] depressedgirls"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1368355619987394592",
+    "canal2": "1368355621916905583",
+    "data": "2025-05-03T22:36:46.566Z"
+  },
+  {
+    "id": "165589",
+    "time1": [
+      "[435] Evanescente",
+      "[285] MaquinaNebulosa",
+      "[90] zmfzl",
+      "[290] uano"
+    ],
+    "time2": [
+      "[625] 666MATHEUSVIN13",
+      "[15] depressedgirls",
+      "[970] AmiltonPvP",
+      "[475] anxietygirls"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1368357143123591209",
+    "canal2": "1368357145241718836",
+    "data": "2025-05-03T22:42:48.350Z"
+  },
+  {
+    "id": "514861",
+    "time1": [
+      "[190] safecurity",
+      "[135] zmfzl",
+      "[30] kyvzo",
+      "[0] visaodejogo"
+    ],
+    "time2": [
+      "[490] ajaxnz",
+      "[35] lyqro",
+      "[0] hq45",
+      "[0] mitsubisheclipse"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1368618654840782990",
+    "canal2": "1368618656300404936",
+    "data": "2025-05-04T16:01:58.002Z"
+  },
+  {
+    "id": "002794",
+    "time1": [
+      "[0] chovendo",
+      "[1060] AmiltonPvP",
+      "[15] depressedgirls",
+      "[30] crlthedemon"
+    ],
+    "time2": [
+      "[135] zmfzl",
+      "[490] anxietygirls",
+      "[515] provincias",
+      "[115] chxatyprime"
+    ],
+    "mapa": "Hoenn",
+    "canal1": "1368624895776395315",
+    "canal2": "1368624897223557160",
+    "data": "2025-05-04T16:26:45.399Z"
+  },
+  {
+    "id": "263295",
+    "time1": [
+      "[0] mitsubisheclipse",
+      "[490] anxietygirls",
+      "[460] ajaxnzz",
+      "[515] provincias"
+    ],
+    "time2": [
+      "[225] zmfzl",
+      "[15] depressedgirls",
+      "[1060] AmiltonPvP",
+      "[190] safecurity"
+    ],
+    "mapa": "Skyhigh",
+    "canal1": "1368625988421812375",
+    "canal2": "1368625990405853204",
+    "data": "2025-05-04T16:31:05.998Z"
+  },
+  {
+    "id": "558662",
+    "time1": [
+      "[0] celxzzzz",
+      "[490] anxietygirls",
+      "[460] ajaxnzz",
+      "[515] GANGMEMBER2K25"
+    ],
+    "time2": [
+      "[205] chwcheu",
+      "[145] iLiter",
+      "[255] MaquinaNebulosa",
+      "[1060] AmiltonPvP"
+    ],
+    "mapa": "Maple",
+    "canal1": "1368627227217891378",
+    "canal2": "1368627229118169098",
+    "data": "2025-05-04T16:36:01.416Z"
+  },
+  {
+    "id": "432996",
+    "time1": [
+      "[190] safecurity",
+      "[400] ajaxnzz",
+      "[1170] AmiltonPvP",
+      "[75] kyvzo"
+    ],
+    "time2": [
+      "[430] anxietygirls",
+      "[5] lyqro",
+      "[160] iLiter",
+      "[225] zmfzl"
+    ],
+    "mapa": "Mystical",
+    "canal1": "1368639283178508360",
+    "canal2": "1368639284663287828",
+    "data": "2025-05-04T17:23:55.792Z"
+  },
+  {
+    "id": "780760",
+    "time1": [
+      "[90] kyvzo",
+      "[15] lyqro",
+      "[0] USerBLACKK"
+    ],
+    "time2": [
+      "[60] mitsubisheclipse",
+      "[175] safecurity",
+      "[405] zmfzl"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1368644936164970527",
+    "canal2": "1368644939000578191",
+    "data": "2025-05-04T17:46:23.624Z"
+  },
+  {
+    "id": "432056",
+    "time1": [
+      "[105] kyvzo",
+      "[0] lyqro",
+      "[105] mitsubisheclipse"
+    ],
+    "time2": [
+      "[220] safecurity",
+      "[450] zmfzl",
+      "[0] USerBLACKK"
+    ],
+    "mapa": "Moyai",
+    "canal1": "1368647667713966201",
+    "canal2": "1368647669387628645",
+    "data": "2025-05-04T17:57:14.414Z"
+  },
+  {
+    "id": "388300",
+    "time1": [
+      "[165] mitsubisheclipse",
+      "[195] kyvzo",
+      "[90] lyqro",
+      "[450] 666ABNT"
+    ],
+    "time2": [
+      "[1250] AmiltonPvP",
+      "[480] oithxeabalar",
+      "[0] depressedgirls",
+      "[370] ajaxnzz"
+    ],
+    "mapa": "WindPeak",
+    "canal1": "1368668455787561041",
+    "canal2": "1368668458253811734",
+    "data": "2025-05-04T19:19:51.115Z"
+  }
+]
