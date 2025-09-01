@@ -33,7 +33,7 @@ index.js       -> Arquivo principal
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone (https://github.com/m7zz/Bot-Ranked)
 cd nome-do-repo
 
 
